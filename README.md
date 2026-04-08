@@ -4,19 +4,19 @@ Telecom Customer Churn Analysis
 
 Project Objective : 
 
-The goal of this project was to analyse customer data to identify why customers are leaving and provide actionable insights to increase retention.
+The goal of this project was to analyze customer data to identify why customers are leaving and provide actionable insights to increase retention.
 
 Tools and Technologies: 
 
-Power BI desktop : Report Building and visualization.
-Power Query : Data Cleaning and Transformation(ETL).
-DAX : Calculated Measures.
+1. Power BI desktop : Report Building and visualization.
+2. Power Query : Data Cleaning and Transformation(ETL).
+3.  DAX : Calculated Measures.
 
 Data Process : 
 
-ETL (Power Query ) : Cleaned the dataset, handled missing values , and created a numeric churn column (1/0).
-DAX Measues : Calculated Total Customers , Total Churned , and a 26.54% Churn Rate .
-Visualization : Developed a dashboard highlighting churn by contract type , internet service , and tenure.
+1. ETL (Power Query ) : Cleaned the dataset, handled missing values , and created a numeric churn column (1/0).
+2. DAX Measues : Calculated Total Customers , Total Churned , and a 26.54% Churn Rate .
+3. Visualization : Developed a dashboard highlighting churn by contract type , internet service , and tenure.
 
 Key Insights : 
 
