@@ -20,9 +20,9 @@ Data Process :
 
 Key Insights : 
 
-Churn Rate : The overall churn rate is 26.54%.
-Contract Risk : Month-to-month customers are significantly more likely to churn compared to those on one-year or two-year contracts.
-Service Impact : Fiber Optic customers show a hugher churn rate, suggesting possible service or pricing issues in that segment .
+1. Churn Rate : The overall churn rate is 26.54%.
+2. Contract Risk : Month-to-month customers are significantly more likely to churn compared to those on one-year or two-year contracts.
+3. Service Impact : Fiber Optic customers show a hugher churn rate, suggesting possible service or pricing issues in that segment .
 
 Recommendation : 
 
